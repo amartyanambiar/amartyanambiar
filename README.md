@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://giphy.com/stickers/3o7aCV5sxX3PPakAU0" width="28">, I'm Akshima Ghai!</h1>
+<h1 align="center">Hey <img src="https://giphy.com/stickers/3o7aCV5sxX3PPakAU0" width="28">, I'm Amartya Nambiar!</h1>
 
 <!--
 **amartyanambiar/amartyanambiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
