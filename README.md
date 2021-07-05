@@ -3,8 +3,9 @@
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amartya-nambiar1/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amartya-nambiar1)
 <img alt="followers" src="https://img.shields.io/github/followers/amartyanambiar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+[<img src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white">](https://www.kaggle.com/amartyanambiar)
   
 </div> 
 
