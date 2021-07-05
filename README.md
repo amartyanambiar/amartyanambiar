@@ -1,16 +1,25 @@
-<h1 align="center">Hey <img src="https://giphy.com/stickers/3o7aCV5sxX3PPakAU0" width="28">, I'm Amartya Nambiar!</h1>
 
-<!--
-**amartyanambiar/amartyanambiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Amartya Nambiar!
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/amartya-nambiar1/)
+<img alt="followers" src="https://img.shields.io/github/followers/amartyanambiar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+  
+</div> 
+
+
+## 💻 Some Stats: 
+
+<div >
+  <div align="left">
+  <img  src="https://github-readme-stats.vercel.app/api?username=amartyanambiar&show_icons=true&hide_border=true&theme=tokyonight" width="45%"  >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=amartyanambiar&hide_border=true&theme=tokyonight" width="45%" align="right" >
+  </div>
+  <hr>
+  <div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartyanambiar&show_icons=true&theme=radical" width="30%" align="left">
+  <img src="https://activity-graph.herokuapp.com/graph?username=amartyanambiar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" width="65%" align="right" />
+  </div>
+</div>
+
