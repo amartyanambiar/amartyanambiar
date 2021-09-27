@@ -17,8 +17,6 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=amartyanambiar&show_icons=true&hide_border=true&theme=tokyonight" width="35%"  align="top">
   
        
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartyanambiar&show_icons=true&theme=tokyonight" width="20%" align="right" >
-
 
   
 </div>  
