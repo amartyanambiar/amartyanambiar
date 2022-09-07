@@ -21,10 +21,10 @@
 ## 📝 My Latest Blog Post in Medium
 <div>  
 
-- <a target="_blank" href="https://github-readme-medium-recent-article-red.vercel.app/medium/@amartyanambiar/0"><img src="https://github-readme-medium-recent-article-red.vercel.app/medium/@amartyanambiar/0" alt="Recent Article 0"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article-red.vercel.app/medium/@amartyanambiar/1"><img src="https://github-readme-medium-recent-article-red.vercel.app/medium/@amartyanambiar/1" alt="Recent Article 1"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article-red.vercel.app/medium/@amartyanambiar/2"><img src="https://github-readme-medium-recent-article-red.vercel.app/medium/@amartyanambiar/2" alt="Recent Article 2"></a> 
-<br>
+<a target="_blank" href="https://github-readme-medium-recent-article-red.vercel.app/medium/@amartyanambiar/0"><img src="https://github-readme-medium-recent-article-red.vercel.app/medium/@amartyanambiar/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article-red.vercel.app/medium/@amartyanambiar/1"><img src="https://github-readme-medium-recent-article-red.vercel.app/medium/@amartyanambiar/1" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article-red.vercel.app/medium/@amartyanambiar/2"><img src="https://github-readme-medium-recent-article-red.vercel.app/medium/@amartyanambiar/2" alt="Recent Article 2"></a> 
+
   </div>
 
   
