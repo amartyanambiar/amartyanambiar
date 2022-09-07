@@ -16,7 +16,11 @@
   <div >
   <img  src="https://github-readme-stats.vercel.app/api?username=amartyanambiar&show_icons=true&hide_border=true&theme=tokyonight" width="35%"  align="top">
   
-       
+
+### 📝 My Latest Blog Post in Medium
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/1" alt="Recent Article 1"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"></a> <br>
 
   
 </div>  
