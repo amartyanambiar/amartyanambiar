@@ -14,7 +14,6 @@
 <div >
     <img  src="https://github.com/amartyanambiar/GitHub-Stats/blob/output/generated/overview.svg" width="35%"  align="top">
     <img  src="https://github.com/amartyanambiar/GitHub-Stats/blob/output/generated/languages.svg" width="35%"  align="top">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=amartyanambiar&theme=tokyonight" width="35%" align="top" >
 </div>  
 
 
