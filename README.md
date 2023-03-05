@@ -10,7 +10,11 @@
 </div> 
 
 
-## 💻 Some Stats: 
+## 💻 Github Stats: 
+<div >
+
+  <img  src="https://github.com/amartyanambiar/GitHub-Stats/blob/output/generated/languages.svg" width="35%"  align="top">
+  </div>  
 
 <div >
 
