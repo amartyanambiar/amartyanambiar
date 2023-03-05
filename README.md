@@ -14,9 +14,9 @@
 <div >
 
   <img  src="https://github.com/amartyanambiar/GitHub-Stats/blob/output/generated/languages.svg" width="35%"  align="top">
-  </div>  
+ 
 
-<div >
+
 
   <img  src="https://github-readme-stats.vercel.app/api?username=amartyanambiar&show_icons=true&hide_border=true&theme=tokyonight" width="35%"  align="top">
   </div>  
