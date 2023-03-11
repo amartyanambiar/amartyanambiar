@@ -10,6 +10,7 @@
 </div> 
 
 <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 ## 💻 Github Stats: 
 <div >
     <img  src="https://github.com/amartyanambiar/GitHub-Stats/blob/output/generated/overview.svg" width="35%"  align="top">
@@ -17,6 +18,7 @@
 </div>  
 
 <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 ## 📝 My Latest Blog Post in Medium
 <div>  
 
