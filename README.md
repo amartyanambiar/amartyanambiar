@@ -14,7 +14,7 @@
 ## 💻 Github Stats: 
 <div >
     <img  src="https://github.com/amartyanambiar/GitHub-Stats/blob/output/generated/overview.svg" width="35%"  align="top">
-    <img  src="https://github.com/amartyanambiar/GitHub-Stats/blob/output/generated/languages.svg" width="35%"  align="top">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=amartyanambiar&hide_border=true&theme=transparent"  width="50%" height= 35%  align="top">
 </div>  
 
 <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
